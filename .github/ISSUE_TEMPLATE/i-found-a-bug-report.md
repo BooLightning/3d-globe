@@ -1,5 +1,5 @@
 ---
-name: I Found A Bug Report
+name: IFA Bug Report
 about: I found a bug in the program
 title: IFA_BUG_REPORT
 labels: ''
